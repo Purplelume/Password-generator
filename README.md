@@ -13,4 +13,4 @@ This project is based on writing JavaScript to make the password generator work 
 ![screenshot of index.html](./Assets/images/Cattura.PNG)
 
 ### Link of deployed application
-[Link to the deployed website]()
+[Link to the deployed website](https://purplelume.github.io/Password-generator/)
